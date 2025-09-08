@@ -1,4 +1,4 @@
-# Tic Tac Toe (CLI)
+# Tic Tac Toe 
 
 A clean, cross-platform command-line Tic Tac Toe written in Python.  
 Features input validation, winner detection, draw handling, and a replay loop with automatic console clear on restart.
