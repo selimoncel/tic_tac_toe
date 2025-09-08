@@ -66,14 +66,3 @@ Troubleshooting:
 
 -ValueError on input: Enter exactly two integers separated by space (e.g., 1 1).
 
-Roadmap:
-Highlight winning line
-
-Add a simple AI (minimax / random)
-
-Optional colorized output (e.g., colorama) — still zero-deps by default
-
-Curses interface for a richer TUI
-
-Contributing
-PRs are welcome. Please keep the codebase simple, dependency-free, and cross-platform.
