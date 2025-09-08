@@ -41,7 +41,7 @@ python -m venv .venv
 source .venv/bin/activate
 
 # 3) Run
-python main.py
+python tictactoe.py
 On Windows, console clear uses cls. On macOS/Linux, it uses clear.
 
 Project Structure:
